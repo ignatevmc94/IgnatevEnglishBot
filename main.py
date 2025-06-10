@@ -16,7 +16,6 @@ import psycopg2
 PASSSWORD = ''
 TOKEN = ''
 
-
 bot = telebot.TeleBot(TOKEN)
 conn = psycopg2.connect(database='ignatev_english_db', user='postgres', password=PASSSWORD)
 emo = [['😉', '😃', '🙃', '😀', '🤩', '☺', '🤗', '🫡', '🤓', '💯', '🤠'],
@@ -118,8 +117,8 @@ def send_welcome(message):
             conn.commit()
 
     bot.send_message(message.chat.id,
-                     f"""Привет, {message.from_user.first_name}! 
-                          Начнем обучение?)""")
+                     f"""Привет, {message.from_user.first_name}!\nНачнем обучение?)"""
+                    )
     markup = types.ReplyKeyboardMarkup(row_width=2)
     level_btns = [types.KeyboardButton(level) for level in levels]
     markup.add(*level_btns)
@@ -217,6 +216,7 @@ def add_word(message):
             bot.register_next_step_handler(message, pick_words)
             bot.send_message(user_id, f"Слово {message.text} уже есть в вашей базе",
                              reply_markup=markup)
+            states[user_id]['step'] = 1
 
         # Если слова нет в базе пользователя - добавим его
         else:
@@ -307,12 +307,14 @@ def confirm(message):
 
         bot.send_message(user_id, f"Слово {states[user_id]['new_word']} сохранено",
                          reply_markup=markup)
+        states[user_id]['step'] = 1
         bot.register_next_step_handler(message, pick_words)
     elif message.text == 'нет ✘':
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         next_btn = types.KeyboardButton(menu[2])
         markup.add(next_btn)
         bot.send_message(user_id, 'Сохранение отменено', reply_markup=markup)
+        states[user_id]['step'] = 1
         bot.register_next_step_handler(message, pick_words)
     else:
         bot.send_message(user_id, 'Команда не распознана')
