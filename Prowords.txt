@@ -1,0 +1,375 @@
+ Abstruse | Adjective | Заумный, трудный для понимания | C2
+Accolade | Noun | Знак одобрения, награда | C2
+Acrimonious | Adjective | Язвительный, едкий | C2
+Adumbrate | Verb | Обрисовывать в общих чертах | C2
+Alacrity | Noun | Живость, готовность | C2
+Anathema | Noun | Предмет ненависти, проклятие | C2
+Antediluvian | Adjective | Допотопный, устаревший | C2
+Aplomb | Noun | Самоуверенность, хладнокровие | C2
+Apogee | Noun | Апогей, высшая точка | C2
+Approbation | Noun | Одобрение, санкция | C2
+Arrant | Adjective | Беспросветный, отъявленный | C2
+Ascetic | Noun | Аскет | C2
+Asperity | Noun | Шероховатость, резкость | C2
+Assiduous | Adjective | Усердный, старательный | C2
+Atavistic | Adjective | Атавистический | C2
+Bailiwick | Noun | Сфера компетенции | C2
+Bard | Noun | Бард, поэт | C2
+Batten | Verb | Жирнеть, процветать | C2
+Beatific | Adjective | Блаженный | C2
+Bedizen | Verb | Украшать безвкусно | C2
+Behemoth | Noun | Исполин, гигант | C2
+Belabor | Verb | Утомительно обсуждать | C2
+Belligerent | Adjective | Воинственный | C2
+Bilious | Adjective | Раздражительный | C2
+Bivouac | Noun | Бивак, лагерь | C2
+Blandishment | Noun | Лесть, уговоры | C2
+Boorish | Adjective | Грубый, неотёсанный | C2
+Broach | Verb | Заводить разговор | C2
+Bucolic | Adjective | Пасторальный | C2
+Cajole | Verb | Уговаривать, льстить | C2
+Callous | Adjective | Бесчувственный | C2
+Captious | Adjective | Придирчивый | C2
+Carom | Verb | Сталкиваться, рикошетить | C2
+Castigate | Verb | Строго наказывать | C2
+Cataclysm | Noun | Катаклизм | C2
+Chary | Adjective | Осторожный, скупой | C2
+Chicanery | Noun | Крючкотворство | C2
+Chimerical | Adjective | Фантастический | C2
+Churlish | Adjective | Грубый, невежливый | C2
+Clemency | Noun | Милосердие, снисхождение | C2
+Cogent | Adjective | Убедительный | C2
+Comity | Noun | Вежливость, учтивость | C2
+Conflagration | Noun | Пожар, возгорание | C2
+Construe | Verb | Толковать, интерпретировать | C2
+Contrite | Adjective | Раскаивающийся | C2
+Contumacious | Adjective | Упрямый, непокорный | C2
+Convivial | Adjective | Общительный, весёлый | C2
+Corpulent | Adjective | Тучный | C2
+Coterie | Noun | Кружок, группа | C2
+Countenance | Verb | Одобрять, поддерживать | C2
+Covenant | Noun | Договор, соглашение | C2
+Cower | Verb | Съёживаться от страха | C2
+Crapulous | Adjective | Похмельный, разгульный | C2
+Credence | Noun | Доверие, вера | C2
+Crepuscular | Adjective | Сумеречный | C2
+Culpable | Adjective | Виноватый | C2
+Dalliance | Noun | Флирт, заигрывание | C2
+Dastardly | Adjective | Подлый, трусливый | C2
+Daunt | Verb | Устрашать | C2
+Dearth | Noun | Недостаток, нехватка | C2
+Debacle | Noun | Разгром, крах | C2
+Decry | Verb | Осудить, раскритиковать | C2
+Deleterious | Adjective | Вредный, губительный | C2
+Demagogue | Noun | Демагог | C2
+Denouement | Noun | Развязка | C2
+Deprecate | Verb | Осудить, не одобрять | C2
+Derelict | Adjective | Заброшенный | C2
+Desecrate | Verb | Осквернять | C2
+Desiccated | Adjective | Обезвоженный | C2
+Desultory | Adjective | Бессистемный | C2
+Diatribe | Noun | Гневная речь | C2
+Didactic | Adjective | Поучительный | C2
+Diffident | Adjective | Неуверенный | C2
+Disabuse | Verb | Разочаровать | C2
+Discomfit | Verb | Смущать | C2
+Disparate | Adjective | Разнородный | C2
+Dissemble | Verb | Скрывать, притворяться | C2
+Disseminate | Verb | Распространять | C2
+Dissolution | Noun | Распад, разложение | C2
+Dissonant | Adjective | Диссонирующий | C2
+Distaff | Adjective | Женский | C2
+Dither | Verb | Колебаться | C2
+Doggerel | Noun | Дурные стихи | C2
+Doughty | Adjective | Доблестный | C2
+Droll | Adjective | Забавный | C2
+Duress | Noun | Принуждение | C2
+Ebullient | Adjective | Восторженный | C2
+Echelon | Noun | Эшелон, уровень | C2
+Eclat | Noun | Блеск, успех | C2
+Edify | Verb | Назидать | C2
+Effervescent | Adjective | Искрящийся | C2
+Effrontery | Noun | Наглость | C2
+Egregious | Adjective | Возмутительный | C2
+Elucidate | Verb | Разъяснять | C2
+Emollient | Adjective | Смягчающий | C2
+Encomium | Noun | Панегирик | C2
+Enervate | Verb | Истощать | C2
+Ennui | Noun | Тоска, скука | C2
+Ephemeral | Adjective | Мимолётный | C2
+Epicurean | Adjective | Эпикурейский | C2
+Epistemology | Noun | Теория познания | C2
+Equanimity | Noun | Хладнокровие | C2
+Erudite | Adjective | Эрудированный | C2
+Eschew | Verb | Избегать | C2
+Esoteric | Adjective | Эзотерический | C2
+Evanescent | Adjective | Исчезающий | C2
+Excoriate | Verb | Критиковать | C2
+Execrable | Adjective | Отвратительный | C2
+Exegesis | Noun | Толкование | C2
+Exhort | Verb | Убеждать | C2
+Exigent | Adjective | Настоятельный | C2
+Expiate | Verb | Искупать | C2
+Expunge | Verb | Удалять | C2
+Extemporaneous | Adjective | Импровизированный | C2
+Extirpate | Verb | Искоренять | C2
+Extrapolate | Verb | Экстраполировать | C2
+Facetious | Adjective | Шутливый | C2
+Fallacious | Adjective | Ложный | C2
+Fastidious | Adjective | Привередливый | C2
+Fatuous | Adjective | Глупый | C2
+Feckless | Adjective | Безответственный | C2
+Fecund | Adjective | Плодовитый | C2
+Feign | Verb | Притворяться | C2
+Felicitous | Adjective | Удачный | C2
+Fervid | Adjective | Пылкий | C2
+Fetid | Adjective | Зловонный | C2
+Fetter | Verb | Оковывать | C2
+Filibuster | Noun | Обструкция | C2
+Florid | Adjective | Витиеватый | C2
+Foible | Noun | Слабость | C2
+Foment | Verb | Подстрекать | C2
+Forbearance | Noun | Терпение | C2
+Fortuitous | Adjective | Случайный | C2
+Fractious | Adjective | Сварливый | C2
+Froward | Adjective | Упрямый | C2
+Fulminate | Verb | Громко протестовать | C2
+Fulsome | Adjective | Чрезмерный | C2
+Gainsay | Verb | Оспаривать | C2
+Garrulous | Adjective | Болтливый | C2
+Germane | Adjective | Уместный | C2
+Grandiloquent | Adjective | Высокопарный | C2
+Gratuitous | Adjective | Беспричинный | C2
+Gregarious | Adjective | Общительный | C2
+Hackneyed | Adjective | Избитый | C2
+Halcyon | Adjective | Безмятежный | C2
+Harangue | Noun | Гневная речь | C2
+Harbinger | Noun | Предвестник | C2
+Haughty | Adjective | Надменный | C2
+Hegemony | Noun | Гегемония | C2
+Hermetic | Adjective | Герметичный | C2
+Heterodox | Adjective | Еретический | C2
+Hiatus | Noun | Перерыв | C2
+Hobnob | Verb | Водить дружбу | C2
+Hoi polloi | Noun | Простолюдины | C2
+Homily | Noun | Проповедь | C2
+Hubris | Noun | Высокомерие | C2
+Iconoclast | Noun | Иконоборец | C2
+Idiosyncratic | Adjective | Своеобразный | C2
+Ignominious | Adjective | Позорный | C2
+Impecunious | Adjective | Безденежный | C2
+Imperturbable | Adjective | Невозмутимый | C2
+Impervious | Adjective | Непроницаемый | C2
+Impetuous | Adjective | Импульсивный | C2
+Impugn | Verb | Оспаривать | C2
+Inane | Adjective | Глупый | C2
+Inchoate | Adjective | Несформированный | C2
+Incontrovertible | Adjective | Неопровержимый | C2
+Incorrigible | Adjective | Неисправимый | C2
+Incredulous | Adjective | Недоверчивый | C2
+Inculcate | Verb | Внушать | C2
+Indefatigable | Adjective | Неутомимый | C2
+Indolent | Adjective | Ленивый | C2
+Ineffable | Adjective | Невыразимый | C2
+Inexorable | Adjective | Неумолимый | C2
+Ingenuous | Adjective | Простодушный | C2
+Inimical | Adjective | Враждебный | C2
+Iniquity | Noun | Беззаконие | C2
+Innocuous | Adjective | Безобидный | C2
+Insidious | Adjective | Коварный | C2
+Insipid | Adjective | Безвкусный | C2
+Intransigent | Adjective | Непримиримый | C2
+Inure | Verb | Приучать | C2
+Invective | Noun | Оскорбление | C2
+Inveigh | Verb | Нападать | C2
+Inveterate | Adjective | Застарелый | C2
+Irascible | Adjective | Вспыльчивый | C2
+Itinerant | Adjective | Странствующий | C2
+Jejune | Adjective | Неинтересный | C2
+Jettison | Verb | Выбрасывать | C2
+Jingoism | Noun | Шовинизм | C2
+Jocular | Adjective | Шутливый | C2
+Juggernaut | Noun | Непобедимая сила | C2
+Juncture | Noun | Момент | C2
+Knell | Noun | Набат | C2
+Kowtow | Verb | Раболепствовать | C2
+Laconic | Adjective | Лаконичный | C2
+Languid | Adjective | Вялый | C2
+Largesse | Noun | Щедрость | C2
+Lassitude | Noun | Усталость | C2
+Legerdemain | Noun | Ловкость рук | C2
+Licentious | Adjective | Распущенный | C2
+Limpid | Adjective | Прозрачный | C2
+Lionize | Verb | Прославлять | C2
+Lissome | Adjective | Гибкий | C2
+Lugubrious | Adjective | Траурный | C2
+Machination | Noun | Интрига | C2
+Maelstrom | Noun | Водоворот | C2
+Magnanimous | Adjective | Великодушный | C2
+Malaise | Noun | Недомогание | C2
+Malinger | Verb | Симулировать | C2
+Maverick | Noun | Индивидуалист | C2
+Mellifluous | Adjective | Мелодичный | C2
+Mendacious | Adjective | Лживый | C2
+Mercurial | Adjective | Изменчивый | C2
+Mettlesome | Adjective | Отважный | C2
+Misanthropy | Noun | Мизантропия | C2
+Miscreant | Noun | Злодей | C2
+Mollify | Verb | Смягчать | C2
+Morass | Noun | Трясина | C2
+Mordant | Adjective | Едкий | C2
+Munificent | Adjective | Щедрый | C2
+Myriad | Noun | Бесчисленное множество | C2
+Nadir | Noun | Надир | C2
+Nebulous | Adjective | Туманный | C2
+Neologism | Noun | Неологизм | C2
+Nepotism | Noun | Кумовство | C2
+Nexus | Noun | Связь | C2
+Noisome | Adjective | Вредный | C2
+Nonplussed | Adjective | Озадаченный | C2
+Nugatory | Adjective | Ничтожный | C2
+Obeisance | Noun | Поклон | C2
+Obfuscate | Verb | Затемнять | C2
+Oblique | Adjective | Косвенный | C2
+Obsequious | Adjective | Угодливый | C2
+Obstreperous | Adjective | Шумный | C2
+Obtuse | Adjective | Тупой | C2
+Officious | Adjective | Навязчивый | C2
+Onerous | Adjective | Обременительный | C2
+Ostensible | Adjective | Мнимый | C2
+Ostentatious | Adjective | Показной | C2
+Overweening | Adjective | Самонадеянный | C2
+Paean | Noun | Хвалебная песнь | C2
+Palatable | Adjective | Приемлемый | C2
+Palliate | Verb | Смягчать | C2
+Panacea | Noun | Панацея | C2
+Paragon | Noun | Образец | C2
+Pariah | Noun | Изгой | C2
+Parsimonious | Adjective | Скупой | C2
+Peccadillo | Noun | Небольшой проступок | C2
+Pedantic | Adjective | Педантичный | C2
+Pejorative | Adjective | Уничижительный | C2
+Penchant | Noun | Склонность | C2
+Penurious | Adjective | Нищий | C2
+Peremptory | Adjective | Безапелляционный | C2
+Perfidious | Adjective | Вероломный | C2
+Perfunctory | Adjective | Поверхностный | C2
+Perspicacious | Adjective | Проницательный | C2
+Pertinacious | Adjective | Упорный | C2
+Phlegmatic | Adjective | Флегматичный | C2
+Piquant | Adjective | Пикантный | C2
+Placate | Verb | Умиротворять | C2
+Platitude | Noun | Банальность | C2
+Plethora | Noun | Избыток | C2
+Plucky | Adjective | Смелый | C2
+Polemical | Adjective | Полемический | C2
+Portentous | Adjective | Зловещий | C2
+Precarious | Adjective | Ненадёжный | C2
+Precipitate | Verb | Ускорять | C2
+Precocious | Adjective | Рано развившийся | C2
+Predilection | Noun | Предрасположенность | C2
+Prescient | Adjective | Предвидящий | C2
+Prevaricate | Verb | Увиливать | C2
+Probity | Noun | Честность | C2
+Proclivity | Noun | Склонность | C2
+Profligate | Adjective | Распутный | C2
+Propitious | Adjective | Благоприятный | C2
+Prosaic | Adjective | Прозаичный | C2
+Protean | Adjective | Изменчивый | C2
+Puerile | Adjective | Детский | C2
+Pugnacious | Adjective | Агрессивный | C2
+Pulchritude | Noun | Красота | C2
+Punctilious | Adjective | Педантичный | C2
+Quagmire | Noun | Трясина | C2
+Querulous | Adjective | Ворчливый | C2
+Quixotic | Adjective | Донкихотский | C2
+Raconteur | Noun | Рассказчик | C2
+Rancorous | Adjective | Злобный | C2
+Rapacious | Adjective | Жадный | C2
+Recalcitrant | Adjective | Упрямый | C2
+Recidivism | Noun | Рецидив | C2
+Recondite | Adjective | Тёмный | C2
+Redoubtable | Adjective | Грозный | C2
+Refractory | Adjective | Упрямый | C2
+Relegate | Verb | Отсылать | C2
+Remonstrate | Verb | Протестовать | C2
+Reprobate | Noun | Негодяй | C2
+Repudiate | Verb | Отвергать | C2
+Rescind | Verb | Отменять | C2
+Ribald | Adjective | Непристойный | C2
+Rife | Adjective | Распространённый | C2
+Risible | Adjective | Смехотворный | C2
+Rococo | Adjective | Вычурный | C2
+Sagacious | Adjective | Мудрый | C2
+Salubrious | Adjective | Здоровый | C2
+Sanctimonious | Adjective | Лицемерный | C2
+Sanguine | Adjective | Оптимистичный | C2
+Sartorial | Adjective | Портняжный | C2
+Saturnine | Adjective | Угрюмый | C2
+Schadenfreude | Noun | Злорадство | C2
+Scintilla | Noun | Искра | C2
+Scurrilous | Adjective | Оскорбительный | C2
+Sedulous | Adjective | Усердный | C2
+Seminal | Adjective | Основополагающий | C2
+Serendipity | Noun | Удачная случайность | C2
+Simulacrum | Noun | Подобие | C2
+Sinecure | Noun | Синекура | C2
+Solicitous | Adjective | Заботливый | C2
+Soporific | Adjective | Снотворный | C2
+Splenetic | Adjective | Раздражительный | C2
+Spurious | Adjective | Ложный | C2
+Stentorian | Adjective | Громогласный | C2
+Stolid | Adjective | Флегматичный | C2
+Striated | Adjective | Полосатый | C2
+Stultify | Verb | Ошеломлять | C2
+Stygian | Adjective | Мрачный | C2
+Subterfuge | Noun | Уловка | C2
+Supercilious | Adjective | Надменный | C2
+Surfeit | Noun | Избыток | C2
+Surreptitious | Adjective | Тайный | C2
+Sycophant | Noun | Подхалим | C2
+Taciturn | Adjective | Молчаливый | C2
+Tantamount | Adjective | Равнозначный | C2
+Temerarious | Adjective | Безрассудный | C2
+Tenuous | Adjective | Слабый | C2
+Timorous | Adjective | Боязливый | C2
+Tirade | Noun | Гневная речь | C2
+Toady | Noun | Подхалим | C2
+Tortuous | Adjective | Извилистый | C2
+Tractable | Adjective | Покорный | C2
+Transient | Adjective | Преходящий | C2
+Trenchant | Adjective | Резкий | C2
+Truculent | Adjective | Агрессивный | C2
+Turgid | Adjective | Напыщенный | C2
+Turpitude | Noun | Порочность | C2
+Ubiquitous | Adjective | Вездесущий | C2
+Umbrage | Noun | Обида | C2
+Unconscionable | Adjective | Бессовестный | C2
+Unctuous | Adjective | Слащавый | C2
+Undulate | Verb | Волноваться | C2
+Untoward | Adjective | Неуместный | C2
+Upbraid | Verb | Упрекать | C2
+Ursine | Adjective | Медвежий | C2
+Vacillate | Verb | Колебаться | C2
+Variegated | Adjective | Разноцветный | C2
+Venerate | Verb | Почитать | C2
+Veracious | Adjective | Правдивый | C2
+Verbose | Adjective | Многословный | C2
+Verdant | Adjective | Зелёный | C2
+Vestigial | Adjective | Рудиментарный | C2
+Vexatious | Adjective | Досадный | C2
+Vicissitude | Noun | Изменение | C2
+Vilify | Verb | Порочить | C2
+Vitiate | Verb | Портить | C2
+Vitriolic | Adjective | Едкий | C2
+Vituperate | Verb | Бранить | C2
+Vociferous | Adjective | Шумный | C2
+Waggish | Adjective | Шутливый | C2
+Wan | Adjective | Бледный | C2
+Wheedle | Verb | Уговаривать | C2
+Winsome | Adjective | Очаровательный | C2
+Wizened | Adjective | Сморщенный | C2
+Xenophobia | Noun | Ксенофобия | C2
+Yoke | Verb | Связывать | C2
+Zealous | Adjective | Ревностный | C2
+Zenith | Noun | Зенит | C2 

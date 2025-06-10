@@ -1,0 +1,1071 @@
+Ability | Noun | Способность | B1  
+Absent | Adjective | Отсутствующий | B1  
+Accept | Verb | Принимать | B1  
+Accomplish | Verb | Выполнять | B1  
+Account | Noun | Счёт | B1  
+Accurate | Adjective | Точный | B1  
+Achieve | Verb | Достигать | B1  
+Adapt | Verb | Адаптироваться | B1  
+Admire | Verb | Восхищаться | B1  
+Admit | Verb | Признавать | B1  
+Advantage | Noun | Преимущество | B1  
+Advice | Noun | Совет | B1  
+Affect | Verb | Влиять | B1  
+Afford | Verb | Позволять себе | B1  
+Agreement | Noun | Соглашение | B1  
+Aim | Noun | Цель | B1  
+Allow | Verb | Разрешать | B1  
+Amazed | Adjective | Поражённый | B1  
+Ambitious | Adjective | Амбициозный | B1  
+Amount | Noun | Количество | B1  
+Amusing | Adjective | Забавный | B1  
+Analyze | Verb | Анализировать | B1  
+Annoy | Verb | Раздражать | B1  
+Anxious | Adjective | Тревожный | B1  
+Apologize | Verb | Извиняться | B1  
+Appear | Verb | Появляться | B1  
+Apply | Verb | Подавать заявку | B1  
+Appreciate | Verb | Ценить | B1  
+Approach | Verb | Приближаться | B1  
+Argue | Verb | Спорить | B1  
+Arrange | Verb | Организовывать | B1  
+Arrival | Noun | Прибытие | B1  
+Artificial | Adjective | Искусственный | B1  
+Aspect | Noun | Аспект | B1  
+Assist | Verb | Помогать | B1  
+Assume | Verb | Предполагать | B1  
+Athlete | Noun | Спортсмен | B1  
+Attach | Verb | Прикреплять | B1  
+Attitude | Noun | Отношение | B1  
+Attract | Verb | Привлекать | B1  
+Average | Adjective | Средний | B1  
+Avoid | Verb | Избегать | B1  
+Aware | Adjective | Осведомлённый | B1  
+Balance | Noun | Баланс | B1  
+Ban | Verb | Запрещать | B1  
+Base | Noun | Основа | B1  
+Basic | Adjective | Основной | B1  
+Battle | Noun | Битва | B1  
+Bear | Verb | Выносить | B1  
+Beat | Verb | Победить | B1  
+Behave | Verb | Вести себя | B1  
+Belief | Noun | Вера | B1  
+Belong | Verb | Принадлежать | B1  
+Benefit | Noun | Польза | B1  
+Betray | Verb | Предавать | B1  
+Blame | Verb | Винить | B1  
+Bold | Adjective | Смелый | B1  
+Bother | Verb | Беспокоить | B1  
+Branch | Noun | Ветка | B1  
+Brave | Adjective | Храбрый | B1  
+Breathe | Verb | Дышать | B1  
+Brief | Adjective | Краткий | B1  
+Brighten | Verb | Освещать | B1  
+Broad | Adjective | Широкий | B1  
+Burst | Verb | Лопнуть | B1  
+Calculate | Verb | Вычислять | B1  
+Calm | Adjective | Спокойный | B1  
+Cancel | Verb | Отменять | B1  
+Capable | Adjective | Способный | B1  
+Capture | Verb | Захватывать | B1  
+Care | Noun | Забота | B1  
+Cause | Noun | Причина | B1  
+Celebrate | Verb | Праздновать | B1  
+Challenge | Noun | Вызов | B1  
+Character | Noun | Характер | B1  
+Charge | Verb | Заряжать | B1  
+Cheerful | Adjective | Весёлый | B1  
+Chief | Adjective | Главный | B1  
+Circumstance | Noun | Обстоятельство | B1  
+Claim | Verb | Утверждать | B1  
+Clear | Adjective | Ясный | B1  
+Clever | Adjective | Умный | B1  
+Climate | Noun | Климат | B1  
+Close | Verb | Закрывать | B1  
+Clue | Noun | Подсказка | B1  
+Collect | Verb | Собирать | B1  
+Combine | Verb | Объединять | B1  
+Comfort | Noun | Утешение | B1  
+Command | Noun | Команда | B1  
+Comment | Noun | Комментарий | B1  
+Communicate | Verb | Общаться | B1  
+Compare | Verb | Сравнивать | B1  
+Compete | Verb | Соревноваться | B1  
+Complain | Verb | Жаловаться | B1  
+Complete | Adjective | Полный | B1  
+Complex | Adjective | Сложный | B1  
+Concentrate | Verb | Концентрироваться | B1  
+Concern | Noun | Беспокойство | B1  
+Conclusion | Noun | Вывод | B1  
+Condition | Noun | Условие | B1  
+Confident | Adjective | Уверенный | B1  
+Confirm | Verb | Подтверждать | B1  
+Conflict | Noun | Конфликт | B1  
+Confuse | Verb | Путать | B1  
+Connect | Verb | Соединять | B1  
+Consequence | Noun | Последствие | B1  
+Consider | Verb | Рассматривать | B1  
+Consist | Verb | Состоять | B1  
+Construct | Verb | Строить | B1  
+Contain | Verb | Содержать | B1  
+Content | Noun | Содержание | B1  
+Continue | Verb | Продолжать | B1  
+Contribute | Verb | Вносить вклад | B1  
+Control | Verb | Контролировать | B1  
+Convince | Verb | Убеждать | B1  
+Cooperation | Noun | Сотрудничество | B1  
+Correct | Adjective | Правильный | B1  
+Courage | Noun | Мужество | B1  
+Create | Verb | Создавать | B1  
+Crime | Noun | Преступление | B1  
+Critical | Adjective | Критический | B1  
+Cruel | Adjective | Жестокий | B1  
+Culture | Noun | Культура | B1  
+Curious | Adjective | Любопытный | B1  
+Current | Adjective | Текущий | B1  
+Damage | Noun | Ущерб | B1  
+Danger | Noun | Опасность | B1  
+Dare | Verb | Осмеливаться | B1  
+Debate | Noun | Дебаты | B1  
+Decent | Adjective | Приличный | B1  
+Decision | Noun | Решение | B1  
+Declare | Verb | Объявлять | B1  
+Decrease | Verb | Уменьшать | B1  
+Defeat | Verb | Побеждать | B1  
+Defend | Verb | Защищать | B1  
+Define | Verb | Определять | B1  
+Deliver | Verb | Доставлять | B1  
+Demand | Verb | Требовать | B1  
+Deny | Verb | Отрицать | B1  
+Depend | Verb | Зависеть | B1  
+Describe | Verb | Описывать | B1  
+Deserve | Verb | Заслуживать | B1  
+Design | Verb | Проектировать | B1  
+Desire | Noun | Желание | B1  
+Destroy | Verb | Уничтожать | B1  
+Detail | Noun | Деталь | B1  
+Determine | Verb | Определять | B1  
+Develop | Verb | Развивать | B1  
+Device | Noun | Устройство | B1  
+Devote | Verb | Посвящать | B1  
+Difference | Noun | Разница | B1  
+Difficult | Adjective | Трудный | B1  
+Direct | Adjective | Прямой | B1  
+Disappear | Verb | Исчезать | B1  
+Disappoint | Verb | Разочаровывать | B1  
+Disaster | Noun | Катастрофа | B1  
+Discover | Verb | Открывать | B1  
+Discuss | Verb | Обсуждать | B1  
+Disease | Noun | Болезнь | B1  
+Dislike | Verb | Не любить | B1  
+Distance | Noun | Расстояние | B1  
+Distribute | Verb | Распределять | B1  
+Divide | Verb | Делить | B1  
+Doubt | Noun | Сомнение | B1  
+Dramatic | Adjective | Драматический | B1  
+Draw | Verb | Рисовать | B1  
+Dream | Noun | Мечта | B1  
+Duty | Noun | Обязанность | B1  
+Eager | Adjective | Стремящийся | B1  
+Earn | Verb | Зарабатывать | B1  
+Effect | Noun | Эффект | B1  
+Effort | Noun | Усилие | B1  
+Elect | Verb | Избирать | B1  
+Element | Noun | Элемент | B1  
+Emotion | Noun | Эмоция | B1  
+Emphasize | Verb | Подчёркивать | B1  
+Employ | Verb | Нанимать | B1  
+Encourage | Verb | Поощрять | B1  
+Energy | Noun | Энергия | B1  
+Engage | Verb | Заниматься | B1  
+Enhance | Verb | Улучшать | B1  
+Enjoy | Verb | Наслаждаться | B1  
+Enormous | Adjective | Огромный | B1  
+Enough | Adjective | Достаточно | B1  
+Ensure | Verb | Гарантировать | B1  
+Entertain | Verb | Развлекать | B1  
+Entire | Adjective | Весь | B1  
+Environment | Noun | Окружение | B1  
+Equal | Adjective | Равный | B1  
+Equipment | Noun | Оборудование | B1  
+Escape | Verb | Сбегать | B1  
+Especially | Ad Verb | Особенно | B1  
+Essential | Adjective | Существенный | B1  
+Establish | Verb | Устанавливать | B1  
+Estimate | Verb | Оценивать | B1  
+Event | Noun | Событие | B1  
+Evidence | Noun | Доказательство | B1  
+Exact | Adjective | Точный | B1  
+Examine | Verb | Исследовать | B1  
+Example | Noun | Пример | B1  
+Exchange | Verb | Обменивать | B1  
+Excited | Adjective | Взволнованный | B1  
+Exclude | Verb | Исключать | B1  
+Excuse | Noun | Извинение | B1  
+Exercise | Noun | Упражнение | B1  
+Exist | Verb | Существовать | B1  
+Expand | Verb | Расширять | B1  
+Expect | Verb | Ожидать | B1  
+Expense | Noun | Расход | B1  
+Experience | Noun | Опыт | B1  
+Expert | Noun | Эксперт | B1  
+Explain | Verb | Объяснять | B1  
+Explode | Verb | Взрываться | B1  
+Express | Verb | Выражать | B1  
+Extend | Verb | Продлевать | B1  
+Extra | Adjective | Дополнительный | B1  
+Extreme | Adjective | Экстремальный | B1  
+Fail | Verb | Проваливаться | B1  
+Fair | Adjective | Справедливый | B1  
+Faith | Noun | Вера | B1  
+Familiar | Adjective | Знакомый | B1  
+Famous | Adjective | Известный | B1  
+Fancy | Adjective | Причудливый | B1  
+Far | Adjective | Далекий | B1  
+Fasten | Verb | Пристёгивать | B1  
+Fault | Noun | Ошибка | B1  
+Fear | Noun | Страх | B1  
+Feature | Noun | Особенность | B1  
+Feed | Verb | Кормить | B1  
+Feel | Verb | Чувствовать | B1  
+Fiction | Noun | Фантастика | B1  
+Figure | Noun | Фигура | B1  
+File | Noun | Файл | B1  
+Fill | Verb | Заполнять | B1  
+Final | Adjective | Финальный | B1  
+Finance | Noun | Финансы | B1  
+Fit | Verb | Подходить | B1  
+Fix | Verb | Чинить | B1  
+Flame | Noun | Пламя | B1  
+Flexible | Adjective | Гибкий | B1  
+Float | Verb | Плавать | B1  
+Flow | Verb | Течь | B1  
+Focus | Verb | Фокусироваться | B1  
+Fold | Verb | Складывать | B1  
+Follow | Verb | Следовать | B1  
+Force | Noun | Сила | B1  
+Foreign | Adjective | Иностранный | B1  
+Forget | Verb | Забывать | B1  
+Forgive | Verb | Прощать | B1  
+Form | Noun | Форма | B1  
+Former | Adjective | Бывший | B1  
+Fortunate | Adjective | Удачливый | B1  
+Forward | Ad Verb | Вперёд | B1  
+Frame | Noun | Рамка | B1  
+Freedom | Noun | Свобода | B1  
+Freeze | Verb | Замораживать | B1  
+Frequent | Adjective | Частый | B1  
+Fresh | Adjective | Свежий | B1  
+Friend | Noun | Друг | B1  
+Frighten | Verb | Пугать | B1  
+Front | Noun | Перед | B1  
+Fruit | Noun | Фрукт | B1  
+Fuel | Noun | Топливо | B1  
+Function | Noun | Функция | B1  
+Fund | Noun | Фонд | B1  
+Funny | Adjective | Смешной | B1  
+Future | Noun | Будущее | B1  
+Gain | Verb | Получать | B1  
+Gap | Noun | Пробел | B1  
+Gather | Verb | Собирать | B1  
+General | Adjective | Общий | B1  
+Generate | Verb | Генерировать | B1  
+Gentle | Adjective | Мягкий | B1  
+Genuine | Adjective | Настоящий | B1  
+Gesture | Noun | Жест | B1  
+Gift | Noun | Подарок | B1  
+Glance | Verb | Взглянуть | B1  
+Global | Adjective | Глобальный | B1  
+Goal | Noun | Цель | B1  
+Good | Adjective | Хороший | B1  
+Govern | Verb | Управлять | B1  
+Grace | Noun | Грация | B1  
+Gradual | Adjective | Постепенный | B1  
+Grain | Noun | Зерно | B1  
+Grant | Verb | Дарить | B1  
+Grasp | Verb | Схватывать | B1  
+Grateful | Adjective | Благодарный | B1  
+Greedy | Adjective | Жадный | B1  
+Greet | Verb | Приветствовать | B1  
+Grief | Noun | Горе | B1  
+Grind | Verb | Молоть | B1  
+Grip | Verb | Сжимать | B1  
+Gross | Adjective | Валовой | B1  
+Ground | Noun | Земля | B1  
+Grow | Verb | Расти | B1  
+Guarantee | Noun | Гарантия | B1  
+Guard | Verb | Охранять | B1  
+Guess | Verb | Догадываться | B1  
+Guide | Noun | Гид | B1  
+Guilty | Adjective | Виновный | B1  
+Habit | Noun | Привычка | B1  
+Hair | Noun | Волосы | B1  
+Halt | Verb | Останавливать | B1  
+Handle | Verb | Обращаться | B1  
+Hang | Verb | Вешать | B1  
+Happen | Verb | Происходить | B1  
+Happy | Adjective | Счастливый | B1  
+Hard | Adjective | Твёрдый | B1  
+Harm | Noun | Вред | B1  
+Harsh | Adjective | Суровый | B1  
+Harvest | Noun | Урожай | B1  
+Haste | Noun | Спешка | B1  
+Hate | Verb | Ненавидеть | B1  
+Haunt | Verb | Преследовать | B1  
+Hazard | Noun | Опасность | B1  
+Head | Noun | Голова | B1  
+Heal | Verb | Лечить | B1  
+Heap | Noun | Куча | B1  
+Hear | Verb | Слышать | B1  
+Heat | Noun | Жара | B1  
+Heavy | Adjective | Тяжёлый | B1  
+Height | Noun | Высота | B1  
+Help | Verb | Помогать | B1  
+Hide | Verb | Прятать | B1  
+High | Adjective | Высокий | B1  
+Hire | Verb | Нанимать | B1  
+Hit | Verb | Ударять | B1  
+Hold | Verb | Держать | B1  
+Hole | Noun | Дыра | B1  
+Honest | Adjective | Честный | B1  
+Honor | Noun | Честь | B1  
+Hope | Verb | Надеяться | B1  
+Horror | Noun | Ужас | B1  
+Host | Noun | Хозяин | B1  
+Hot | Adjective | Горячий | B1  
+Huge | Adjective | Огромный | B1  
+Human | Noun | Человек | B1  
+Humble | Adjective | Скромный | B1  
+Humor | Noun | Юмор | B1  
+Hunger | Noun | Голод | B1  
+Hunt | Verb | Охотиться | B1  
+Hurry | Verb | Торопиться | B1  
+Hurt | Verb | Болеть | B1  
+Idea | Noun | Идея | B1  
+Identify | Verb | Идентифицировать | B1  
+Ignore | Verb | Игнорировать | B1  
+Ill | Adjective | Больной | B1  
+Image | Noun | Изображение | B1  
+Imagine | Verb | Воображать | B1  
+Impact | Noun | Влияние | B1  
+Implement | Verb | Внедрять | B1  
+Imply | Verb | Подразумевать | B1  
+Import | Verb | Импортировать | B1  
+Important | Adjective | Важный | B1  
+Impress | Verb | Впечатлять | B1  
+Improve | Verb | Улучшать | B1  
+Include | Verb | Включать | B1  
+Income | Noun | Доход | B1  
+Increase | Verb | Увеличивать | B1  
+Independent | Adjective | Независимый | B1  
+Indicate | Verb | Указывать | B1  
+Individual | Noun | Индивидуум | B1  
+Industry | Noun | Промышленность | B1  
+Influence | Noun | Влияние | B1  
+Inform | Verb | Информировать | B1  
+Initial | Adjective | Начальный | B1  
+Injure | Verb | Травмировать | B1  
+Innocent | Adjective | Невинный | B1  
+Inquire | Verb | Спрашивать | B1  
+Insect | Noun | Насекомое | B1  
+Insert | Verb | Вставлять | B1  
+Inside | Noun | Внутренность | B1  
+Insist | Verb | Настаивать | B1  
+Inspect | Verb | Проверять | B1  
+Inspire | Verb | Вдохновлять | B1  
+Install | Verb | Устанавливать | B1  
+Instance | Noun | Пример | B1  
+Instead | Ad Verb | Вместо | B1  
+Instruct | Verb | Инструктировать | B1  
+Insurance | Noun | Страховка | B1  
+Intend | Verb | Намереваться | B1  
+Interest | Noun | Интерес | B1  
+Interfere | Verb | Вмешиваться | B1  
+Internal | Adjective | Внутренний | B1  
+Interpret | Verb | Интерпретировать | B1  
+Interrupt | Verb | Прерывать | B1  
+Introduce | Verb | Представлять | B1  
+Invent | Verb | Изобретать | B1  
+Invest | Verb | Инвестировать | B1  
+Investigate | Verb | Исследовать | B1  
+Invite | Verb | Приглашать | B1  
+Involve | Verb | Вовлекать | B1  
+Iron | Noun | Железо | B1  
+Island | Noun | Остров | B1  
+Issue | Noun | Проблема | B1  
+Item | Noun | Предмет | B1  
+Jacket | Noun | Куртка | B1  
+Jail | Noun | Тюрьма | B1  
+Jam | Noun | Варенье | B1  
+Jealous | Adjective | Ревнивый | B1  
+Join | Verb | Присоединяться | B1  
+Joint | Adjective | Совместный | B1  
+Joke | Noun | Шутка | B1  
+Judge | Verb | Судить | B1  
+Jump | Verb | Прыгать | B1  
+Justice | Noun | Справедливость | B1  
+Keep | Verb | Хранить | B1  
+Key | Noun | Ключ | B1  
+Kick | Verb | Пинать | B1  
+Kid | Noun | Ребёнок | B1  
+Kill | Verb | Убивать | B1  
+Kind | Adjective | Добрый | B1  
+King | Noun | Король | B1  
+Kiss | Verb | Целовать | B1  
+Knee | Noun | Колено | B1  
+Knife | Noun | Нож | B1  
+Knock | Verb | Стучать | B1  
+Know | Verb | Знать | B1  
+Knowledge | Noun | Знание | B1  
+Label | Noun | Этикетка | B1  
+Labor | Noun | Труд | B1  
+Lack | Noun | Недостаток | B1  
+Ladder | Noun | Лестница | B1  
+Lady | Noun | Леди | B1  
+Lake | Noun | Озеро | B1  
+Lamp | Noun | Лампа | B1  
+Land | Noun | Земля | B1  
+Language | Noun | Язык | B1  
+Large | Adjective | Большой | B1  
+Last | Adjective | Последний | B1  
+Late | Adjective | Поздний | B1  
+Laugh | Verb | Смеяться | B1  
+Law | Noun | Закон | B1  
+Lay | Verb | Класть | B1  
+Lazy | Adjective | Ленивый | B1  
+Lead | Verb | Вести | B1  
+Leaf | Noun | Лист | B1  
+Lean | Verb | Наклоняться | B1  
+Learn | Verb | Учить | B1  
+Leave | Verb | Оставлять | B1  
+Lecture | Noun | Лекция | B1  
+Left | Adjective | Левый | B1  
+Leg | Noun | Нога | B1  
+Legal | Adjective | Законный | B1  
+Lend | Verb | Давать взаймы | B1  
+Length | Noun | Длина | B1  
+Less | Adjective | Меньше | B1  
+Let | Verb | Позволять | B1  
+Letter | Noun | Письмо | B1  
+Level | Noun | Уровень | B1  
+Lie | Verb | Лгать | B1  
+Life | Noun | Жизнь | B1  
+Lift | Verb | Поднимать | B1  
+Light | Noun | Свет | B1  
+Like | Verb | Нравиться | B1  
+Limit | Noun | Предел | B1  
+Line | Noun | Линия | B1  
+Link | Noun | Ссылка | B1  
+Abandon | Verb | оставлять, покидать | B2  
+Absurd | Adjective | абсурдный | B2  
+Accomplish | Verb | выполнять, достигать | B2  
+Accurate | Adjective | точный | B2  
+Acknowledge | Verb | признавать | B2  
+Acquire | Verb | приобретать | B2  
+Adapt | Verb | адаптироваться | B2  
+Adequate | Adjective | адекватный | B2  
+Adjectiveust | Verb | регулировать, приспосабливать | B2  
+Admire | Verb | восхищаться | B2  
+Admit | Verb | признавать, допускать | B2  
+Adopt | Verb | принимать (решение), усыновлять | B2  
+Advance | Verb / Noun | продвигаться / прогресс | B2  
+Aggressive | Adjective | агрессивный | B2  
+Alert | Adjective | бдительный | B2  
+Allege | Verb | утверждать (без доказательств) | B2  
+Allocate | Verb | выделять (ресурсы) | B2  
+Ambitious | Adjective | амбициозный | B2  
+Amuse | Verb | развлекать | B2  
+Analyze | Verb | анализировать | B2  
+Annoy | Verb | раздражать | B2  
+Anticipate | Verb | предвидеть | B2  
+Anxious | Adjective | тревожный | B2  
+Appeal | Verb / Noun | обращаться / привлекательность | B2  
+Appreciate | Verb | ценить | B2  
+Approach | Verb / Noun | приближаться / подход | B2  
+Approve | Verb | одобрять | B2  
+Argue | Verb | спорить | B2  
+Arouse | Verb | пробуждать (чувства) | B2  
+Assess | Verb | оценивать | B2  
+Assign | Verb | назначать | B2  
+Assume | Verb | предполагать | B2  
+Assure | Verb | уверять | B2  
+Attach | Verb | прикреплять | B2  
+Attain | Verb | достигать | B2  
+Attempt | Verb / Noun | пытаться / попытка | B2  
+Attract | Verb | привлекать | B2  
+Avoid | Verb | избегать | B2  
+Aware | Adjective | осведомленный | B2  
+Baffle | Verb | озадачивать | B2  
+Bare | Adjective | голый, минимальный | B2  
+Bargain | Verb / Noun | сделка / торговаться | B2  
+Barrier | Noun | барьер | B2  
+Behave | Verb | вести себя | B2  
+Belief | Noun | убеждение | B2  
+Benefit | Verb / Noun | польза / приносить пользу | B2  
+Betray | Verb | предавать | B2  
+Bias | Noun | предвзятость | B2  
+Blame | Verb / Noun | винить / вина | B2  
+Bold | Adjective | смелый | B2  
+Boost | Verb / Noun | усиливать / подъем | B2  
+Bother | Verb | беспокоить | B2  
+Boundary | Noun | граница | B2  
+Bribe | Verb / Noun | взятка / подкупать | B2  
+Brief | Adjective | краткий | B2  
+Broaden | Verb | расширять | B2  
+Brutal | Adjective | жестокий | B2  
+Burst | Verb / Noun | лопаться / взрыв | B2  
+Calculate | Verb | вычислять | B2  
+Cancel | Verb | отменять | B2  
+Capacity | Noun | вместимость, способность | B2  
+Capture | Verb | захватывать | B2  
+Casual | Adjective | повседневный, неформальный | B2  
+Cautious | Adjective | осторожный | B2  
+Challenge | Verb / Noun | вызов / бросать вызов | B2  
+Chaos | Noun | хаос | B2  
+Characterize | Verb | характеризовать | B2  
+Charge | Verb / Noun | заряжать / обвинение | B2  
+Chase | Verb | преследовать | B2  
+Cheerful | Adjective | радостный | B2  
+Circumstance | Noun | обстоятельство | B2  
+Claim | Verb / Noun | утверждать / заявление | B2  
+Clarify | Verb | прояснять | B2  
+Classify | Verb | классифицировать | B2  
+Clumsy | Adjective | неуклюжий | B2  
+Collapse | Verb / Noun | рушиться / крах | B2  
+Collide | Verb | сталкиваться | B2  
+Combine | Verb | сочетать | B2  
+Comfort | Verb / Noun | комфорт / утешать | B2  
+Command | Verb / Noun | командовать / команда | B2  
+Commit | Verb | совершать (действие) | B2  
+Communicate | Verb | общаться | B2  
+Compare | Verb | сравнивать | B2  
+Compel | Verb | принуждать | B2  
+Compensate | Verb | компенсировать | B2  
+Compete | Verb | соревноваться | B2  
+Complain | Verb | жаловаться | B2  
+Complex | Adjective | сложный | B2  
+Complicate | Verb | усложнять | B2  
+Compose | Verb | сочинять | B2  
+Comprehend | Verb | понимать | B2  
+Compromise | Verb / Noun | компромисс / идти на компромисс | B2  
+Conceal | Verb | скрывать | B2  
+Concentrate | Verb | концентрироваться | B2  
+Conclude | Verb | заключать | B2  
+Concrete | Adjective | конкретный | B2  
+Condemn | Verb | осуждать | B2  
+Conduct | Verb / Noun | проводить / поведение | B2  
+Confess | Verb | признаваться | B2  
+Confident | Adjective | уверенный | B2  
+Confirm | Verb | подтверждать | B2  
+Conflict | Noun | конфликт | B2  
+Confront | Verb | сталкиваться (с проблемой) | B2  
+Confuse | Verb | путать | B2  
+Connect | Verb | соединять | B2  
+Conquer | Verb | завоевывать | B2  
+Conscious | Adjective | сознательный | B2  
+Consent | Verb / Noun | согласие / соглашаться | B2  
+Conserve | Verb | сохранять | B2  
+Consider | Verb | рассматривать | B2  
+Consist | Verb | состоять | B2  
+Consume | Verb | потреблять | B2  
+Contact | Verb / Noun | контакт / связываться | B2  
+Contain | Verb | содержать | B2  
+Contaminate | Verb | загрязнять | B2  
+Contemplate | Verb | созерцать, обдумывать | B2  
+Contradict | Verb | противоречить | B2  
+Contribute | Verb | вносить вклад | B2  
+Controversial | Adjective | спорный | B2  
+Convenient | Adjective | удобный | B2  
+Convince | Verb | убеждать | B2  
+Cooperate | Verb | сотрудничать | B2  
+Cope | Verb | справляться | B2  
+Corrupt | Adjective / Verb | коррумпированный / развращать | B2  
+Costly | Adjective | дорогостоящий | B2  
+Counsel | Verb / Noun | совет / консультировать | B2  
+Courage | Noun | смелость | B2  
+Create | Verb | создавать | B2  
+Credit | Verb / Noun | кредит / зачислять | B2  
+Crime | Noun | преступление | B2  
+Crisis | Noun | кризис | B2  
+Critical | Adjective | критический | B2  
+Criticize | Verb | критиковать | B2  
+Crucial | Adjective | решающий | B2  
+Crush | Verb | давить, раздавливать | B2  
+Cultivate | Verb | культивировать | B2  
+Curious | Adjective | любопытный | B2  
+Current | Adjective / Noun | текущий / течение | B2  
+Damage | Verb / Noun | ущерб / повреждать | B2  
+Dare | Verb | осмеливаться | B2  
+Debate | Verb / Noun | дебаты / обсуждать | B2  
+Decay | Verb / Noun | разлагаться / распад | B2  
+Deceive | Verb | обманывать | B2  
+Decent | Adjective | приличный | B2  
+Declare | Verb | объявлять | B2  
+Decline | Verb / Noun | отказываться / спад | B2  
+Decorate | Verb | украшать | B2  
+Dedicate | Verb | посвящать | B2  
+Defeat | Verb / Noun | побеждать / поражение | B2  
+Defend | Verb | защищать | B2  
+Define | Verb | определять | B2  
+Delay | Verb / Noun | задерживать / задержка | B2  
+Deliberate | Adjective | преднамеренный | B2  
+Delicate | Adjective | деликатный | B2  
+Deliver | Verb | доставлять | B2  
+Demand | Verb / Noun | требовать / спрос | B2  
+Demonstrate | Verb | демонстрировать | B2  
+Deny | Verb | отрицать | B2  
+Depend | Verb | зависеть | B2  
+Depress | Verb | угнетать | B2  
+Derive | Verb | получать (из источника) | B2  
+Descend | Verb | спускаться | B2  
+Deserve | Verb | заслуживать | B2  
+Desire | Verb / Noun | желание / желать | B2  
+Desperate | Adjective | отчаянный | B2  
+Destroy | Verb | уничтожать | B2  
+Detect | Verb | обнаруживать | B2  
+Determine | Verb | определять | B2  
+Develop | Verb | развивать | B2  
+Devote | Verb | посвящать | B2  
+Dictate | Verb | диктовать | B2  
+Differ | Verb | отличаться | B2  
+Digest | Verb | переваривать | B2  
+Dignity | Noun | достоинство | B2  
+Dilemma | Noun | дилемма | B2  
+Diminish | Verb | уменьшать | B2  
+Disagree | Verb | не соглашаться | B2  
+Disappoint | Verb | разочаровывать | B2  
+Disaster | Noun | катастрофа | B2  
+Discard | Verb | выбрасывать | B2  
+Discipline | Noun | дисциплина | B2  
+Disclose | Verb | раскрывать | B2  
+Discount | Noun | скидка | B2  
+Discover | Verb | обнаруживать | B2  
+Discriminate | Verb | дискриминировать | B2  
+Disgust | Verb / Noun | отвращение / вызывать отвращение | B2  
+Dismiss | Verb | увольнять | B2  
+Disorder | Noun | беспорядок | B2  
+Display | Verb / Noun | показывать / дисплей | B2  
+Dispute | Verb / Noun | спор / спорить | B2  
+Distinct | Adjective | отчетливый | B2  
+Distract | Verb | отвлекать | B2  
+Distribute | Verb | распределять | B2  
+Disturb | Verb | беспокоить | B2  
+Diverse | Adjective | разнообразный | B2  
+Divide | Verb | делить | B2  
+Dominate | Verb | доминировать | B2  
+Donate | Verb | жертвовать | B2  
+Doubt | Verb / Noun | сомнение / сомневаться | B2  
+Draft | Verb / Noun | черновик / составлять черновик | B2  
+Dramatic | Adjective | драматический | B2  
+Dread | Verb / Noun | бояться / ужас | B2  
+Drift | Verb | дрейфовать | B2  
+Drown | Verb | тонуть | B2  
+Dull | Adjective | скучный | B2  
+Dump | Verb | сбрасывать | B2  
+Duplicate | Verb / Noun | дублировать / копия | B2  
+Dwell | Verb | обитать | B2  
+Eager | Adjective | нетерпеливый | B2  
+Ease | Verb / Noun | легкость / облегчать | B2  
+Echo | Verb / Noun | эхо / отражать | B2  
+Eliminate | Verb | устранять | B2  
+Embarrass | Verb | смущать | B2  
+Emerge | Verb | появляться | B2  
+Emphasize | Verb | подчеркивать | B2  
+Employ | Verb | нанимать | B2  
+Enable | Verb | давать возможность | B2  
+Encounter | Verb / Noun | сталкиваться / встреча | B2  
+Endure | Verb | терпеть | B2  
+Enforce | Verb | применять (закон) | B2  
+Engage | Verb | вовлекать | B2  
+Enhance | Verb | улучшать | B2  
+Enormous | Adjective | огромный | B2  
+Enquire | Verb | спрашивать | B2  
+Ensure | Verb | обеспечивать | B2  
+Entire | Adjective | целый | B2  
+Escape | Verb / Noun | убегать / побег | B2  
+Essential | Adjective | существенный | B2  
+Establish | Verb | устанавливать | B2  
+Estimate | Verb / Noun | оценивать / оценка | B2  
+Evaluate | Verb | оценивать | B2  
+Evident | Adjective | очевидный | B2  
+Exaggerate | Verb | преувеличивать | B2  
+Examine | Verb | исследовать | B2  
+Exceed | Verb | превышать | B2  
+Exchange | Verb / Noun | обменивать / обмен | B2  
+Exclude | Verb | исключать | B2  
+Execute | Verb | выполнять | B2  
+Exhaust | Verb | истощать | B2  
+Expand | Verb | расширять | B2  
+Expect | Verb | ожидать | B2  
+Expire | Verb | истекать (о сроке) | B2  
+Explode | Verb | взрываться | B2  
+Exploit | Verb | эксплуатировать | B2  
+Explore | Verb | исследовать | B2  
+Expose | Verb | разоблачать | B2  
+Extend | Verb | продлевать | B2  
+Extent | Noun | степень | B2  
+Extract | Verb | извлекать | B2  
+Fade | Verb | блекнуть | B2  
+Fail | Verb | терпеть неудачу | B2  
+Faint | Adjective / Verb | слабый / падать в обморок | B2  
+Faith | Noun | вера | B2  
+Fancy | Adjective / Verb | причудливый / желать | B2  
+Fare | Noun | плата за проезд | B2  
+Fascinate | Verb | очаровывать | B2  
+Fault | Noun | вина | B2  
+Fear | Verb / Noun | страх / бояться | B2  
+Feature | Verb / Noun | особенность / показывать | B2  
+Feeble | Adjective | слабый | B2  
+Feed | Verb | кормить | B2  
+Fierce | Adjective | свирепый | B2  
+File | Verb / Noun | файл / подавать документы | B2  
+Flatter | Verb | льстить | B2  
+Flaw | Noun | недостаток | B2  
+Flee | Verb | убегать | B2  
+Flexible | Adjective | гибкий | B2  
+Float | Verb | плавать | B2  
+Flourish | Verb | процветать | B2  
+Fold | Verb | складывать | B2  
+Forbid | Verb | запрещать | B2  
+Force | Verb / Noun | сила / принуждать | B2  
+Foresee | Verb | предвидеть | B2  
+Forgive | Verb | прощать | B2  
+Formal | Adjective | формальный | B2  
+Former | Adjective | бывший | B2  
+Fortunate | Adjective | удачливый | B2  
+Foster | Verb | способствовать | B2  
+Frame | Verb / Noun | рамка / формулировать | B2  
+Frequent | Adjective | частый | B2  
+Frighten | Verb | пугать | B2  
+Frown | Verb | хмуриться | B2  
+Frustrate | Verb | расстраивать | B2  
+Fulfill | Verb | выполнять | B2  
+Fund | Verb / Noun | фонд / финансировать | B2  
+Furious | Adjective | разъяренный | B2  
+Furnish | Verb | обставлять | B2  
+Gain | Verb / Noun | получать / прибыль | B2  
+Gather | Verb | собирать | B2  
+Generate | Verb | генерировать | B2  
+Generous | Adjective | щедрый | B2  
+Glance | Verb / Noun | взглянуть / взгляд | B2  
+Glimpse | Verb / Noun | мельком увидеть / проблеск | B2  
+Glory | Noun | слава | B2  
+Glow | Verb / Noun | светиться / свечение | B2  
+Grasp | Verb | схватывать | B2  
+Grateful | Adjective | благодарный | B2  
+Greed | Noun | жадность | B2  
+Grieve | Verb | горевать | B2  
+Grind | Verb | молоть | B2  
+Guarantee | Verb / Noun | гарантия / гарантировать | B2  
+Guard | Verb / Noun | охрана / охранять | B2  
+Guess | Verb / Noun | догадываться / догадка | B2  
+Guide | Verb / Noun | гид / направлять | B2  
+Halt | Verb / Noun | останавливаться / остановка | B2  
+Handle | Verb / Noun | обращаться / ручка | B2  
+Harsh | Adjective | суровый | B2  
+Haste | Noun | спешка | B2  
+Hate | Verb / Noun | ненавидеть / ненависть | B2  
+Haunt | Verb | преследовать (о призраках) | B2  
+Hazard | Noun | опасность | B2  
+Heal | Verb | лечить | B2  
+Hesitate | Verb | колебаться | B2  
+Highlight | Verb / Noun | выделять / ключевой момент | B2  
+Hinder | Verb | мешать | B2  
+Hollow | Adjective | полый | B2  
+Honest | Adjective | честный | B2  
+Honor | Verb / Noun | честь / чтить | B2  
+Horror | Noun | ужас | B2  
+Hostile | Adjective | враждебный | B2  
+Humble | Adjective | скромный | B2  
+Humid | Adjective | влажный | B2  
+Hunt | Verb / Noun | охотиться / охота | B2  
+Hurry | Verb / Noun | спешить / спешка | B2  
+Hurt | Verb / Noun | причинять боль / боль | B2  
+Identify | Verb | идентифицировать | B2  
+Ignore | Verb | игнорировать | B2  
+Illustrate | Verb | иллюстрировать | B2  
+Imagine | Verb | представлять | B2  
+Immense | Adjective | огромный | B2  
+Impact | Verb / Noun | воздействие / воздействовать | B2  
+Imply | Verb | подразумевать | B2  
+Impose | Verb | навязывать | B2  
+Impressive | Adjective | впечатляющий | B2  
+Improve | Verb | улучшать | B2  
+Incline | Verb / Noun | склонять / склон | B2  
+Include | Verb | включать | B2  
+Increase | Verb / Noun | увеличивать / увеличение | B2  
+Indicate | Verb | указывать | B2  
+Inevitable | Adjective | неизбежный | B2  
+Infer | Verb | делать вывод | B2  
+Influence | Verb / Noun | влияние / влиять | B2  
+Inform | Verb | сообщать | B2  
+Inherit | Verb | наследовать | B2  
+Injure | Verb | ранить | B2  
+Innocent | Adjective | невинный | B2  
+Inquire | Verb | спрашивать | B2  
+Insist | Verb | настаивать | B2  
+Inspect | Verb | проверять | B2  
+Inspire | Verb | вдохновлять | B2  
+Install | Verb | устанавливать | B2  
+Insult | Verb / Noun | оскорблять / оскорбление | B2  
+Integrate | Verb | интегрировать | B2  
+Intend | Verb | намереваться | B2  
+Intense | Adjective | интенсивный | B2  
+Interfere | Verb | вмешиваться | B2  
+Interpret | Verb | интерпретировать | B2  
+Interrupt | Verb | прерывать | B2  
+Invade | Verb | вторгаться | B2  
+Invent | Verb | изобретать | B2  
+Invest | Verb | инвестировать | B2  
+Investigate | Verb | расследовать | B2  
+Involve | Verb | вовлекать | B2  
+Irritate | Verb | раздражать | B2  
+Isolate | Verb | изолировать | B2  
+Issue | Verb / Noun | вопрос / выпускать | B2  
+Jealous | Adjective | ревнивый | B2  
+Join | Verb | присоединяться | B2  
+Judge | Verb / Noun | судья / судить | B2  
+Justify | Verb | оправдывать | B2  
+Kick | Verb / Noun | пинать / удар | B2  
+Kneel | Verb | становиться на колени | B2  
+Knock | Verb / Noun | стучать / стук | B2  
+Label | Verb / Noun | этикетка / маркировать | B2  
+Lack | Verb / Noun | недостаток / не хватать | B2  
+Lame | Adjective | хромой | B2  
+Landscape | Noun | пейзаж | B2  
+Latter | Adjective | последний (из двух) | B2  
+Launch | Verb / Noun | запускать / запуск | B2  
+Lazy | Adjective | ленивый | B2  
+Leak | Verb / Noun | протекать / утечка | B2  
+Lean | Verb | наклоняться | B2  
+Leap | Verb / Noun | прыгать / прыжок | B2  
+Legal | Adjective | законный | B2  
+Lend | Verb | одалживать | B2  
+Liable | Adjective | ответственный | B2  
+Liberate | Verb | освобождать | B2  
+License | Noun | лицензия | B2  
+Lift | Verb / Noun | поднимать / подъем | B2  
+Limit | Verb / Noun | предел / ограничивать | B2  
+Link | Verb / Noun | связь / связывать | B2  
+Liquid | Noun | жидкость | B2  
+Load | Verb / Noun | груз / загружать | B2  
+Loan | Verb / Noun | заем / одалживать | B2  
+Locate | Verb | находить | B2  
+Logical | Adjective | логичный | B2  
+Loose | Adjective | свободный | B2  
+Loyal | Adjective | верный | B2  
+Luxury | Noun | роскошь | B2  
+Maintain | Verb | поддерживать | B2  
+Major | Adjective | основной | B2  
+Manage | Verb | управлять | B2  
+Manner | Noun | манера | B2  
+Manufacture | Verb | производить | B2  
+Margin | Noun | край, запас | B2  
+Marvel | Verb / Noun | восхищаться / чудо | B2  
+Massive | Adjective | массивный | B2  
+Mature | Adjective / Verb | зрелый / созревать | B2  
+Maximum | Adjective / Noun | максимальный / максимум | B2  
+Mean | verb/Adjective | означать / скупой | B2  
+Measure | Verb / Noun | измерять / мера | B2  
+Melt | Verb | таять | B2  
+Mention | Verb | упоминать | B2  
+Merit | Noun | заслуга | B2  
+Mild | Adjective | мягкий | B2  
+Minimum | Adjective / Noun | минимальный / минимум | B2  
+Minor | Adjective | незначительный | B2  
+Miracle | Noun | чудо | B2  
+Misery | Noun | страдание | B2  
+Mislead | Verb | вводить в заблуждение | B2  
+Miss | Verb | скучать, пропускать | B2  
+Mistake | Verb / Noun | ошибка / ошибаться | B2  
+Mix | Verb / Noun | смешивать / смесь | B2  
+Moan | Verb / Noun | стонать / стон | B2  
+Moderate | Adjective | умеренный | B2  
+Modify | Verb | модифицировать | B2  
+Moist | Adjective | влажный | B2  
+Monitor | Verb / Noun | контролировать / монитор | B2  
+Moral | Adjective / Noun | моральный / мораль | B2  
+Motion | Noun | движение | B2  
+Motivate | Verb | мотивировать | B2  
+Mount | Verb | взбираться | B2  
+Multiply | Verb | умножать | B2  
+Murder | Verb / Noun | убийство / убивать | B2  
+Mutter | Verb | бормотать | B2  
+Mystery | Noun | тайна | B2  
+Narrow | Adjective | узкий | B2  
+Neglect | Verb | пренебрегать | B2  
+Negotiate | Verb | вести переговоры | B2  
+Nervous | Adjective | нервный | B2  
+Noble | Adjective | благородный | B2  
+Notice | Verb / Noun | замечать / уведомление | B2  
+Notify | Verb | уведомлять | B2  
+Nourish | Verb | питать | B2  
+Nuisance | Noun | неприятность | B2  
+Obey | Verb | подчиняться | B2  
+Object | Verb / Noun | объект / возражать | B2  
+Oblige | Verb | обязывать | B2  
+Observe | Verb | наблюдать | B2  
+Obstacle | Noun | препятствие | B2  
+Obtain | Verb | получать | B2  
+Occupy | Verb | занимать | B2  
+Occur | Verb | происходить | B2  
+Offend | Verb | оскорблять | B2  
+Offer | Verb / Noun | предлагать / предложение | B2  
+Omit | Verb | пропускать | B2  
+Operate | Verb | управлять | B2  
+Oppose | Verb | противостоять | B2  
+Optimistic | Adjective | оптимистичный | B2  
+Organize | Verb | организовывать | B2  
+Origin | Noun | происхождение | B2  
+Overcome | Verb | преодолевать | B2  
+Overlook | Verb | упускать из виду | B2  
+Owe | Verb | быть должным | B2  
+Pace | Verb / Noun | темп / шагать | B2  
+Pack | Verb / Noun | упаковывать / пакет | B2  
+Painful | Adjective | болезненный | B2  
+Panic | Verb / Noun | паника / паниковать | B2  
+Parallel | Adjective / Noun | параллельный / параллель | B2  
+Pardon | Verb / Noun | прощать / прощение | B2  
+Participate | Verb | участвовать | B2  
+Passion | Noun | страсть | B2  
+Paste | Verb / Noun | паста / вклеивать | B2  
+Patience | Noun | терпение | B2  
+Pause | Verb / Noun | делать паузу / пауза | B2  
+Peaceful | Adjective | мирный | B2  
+Peak | Noun | пик | B2  
+Penetrate | Verb | проникать | B2  
+Perceive | Verb | воспринимать | B2  
+Perform | Verb | выполнять | B2  
+Permit | Verb / Noun | разрешать / разрешение | B2  
+Persist | Verb | упорствовать | B2  
+Persuade | Verb | убеждать | B2  
+Phenomenon | Noun | явление | B2  
+Pile | Verb / Noun | куча / складывать | B2  
+Pioneer | Noun | пионер | B2  
+Plain | Adjective | простой | B2  
+Pleasant | Adjective | приятный | B2  
+Plot | Verb / Noun | сюжет / строить заговор | B2  
+Plug | Verb / Noun | вилка / подключать | B2  
+Poison | Verb / Noun | яд / отравлять | B2  
+Pollute | Verb | загрязнять | B2  
+Portion | Noun | порция | B2  
+Possess | Verb | обладать | B2  
+Postpone | Verb | откладывать | B2  
+Potential | Adjective / Noun | потенциальный / потенциал | B2  
+Pour | Verb | лить | B2  
+Poverty | Noun | бедность | B2  
+Powerful | Adjective | мощный | B2  
+Practical | Adjective | практичный | B2  
+Praise | Verb / Noun | хвалить / похвала | B2  
+Pray | Verb | молиться | B2  
+Precise | Adjective | точный | B2  
+Predict | Verb | предсказывать | B2  
+Prefer | Verb | предпочитать | B2  
+Prepare | Verb | готовить | B2  
+Preserve | Verb | сохранять | B2  
+Press | Verb / Noun | нажимать / пресса | B2  
+Pretend | Verb | притворяться | B2  
+Prevent | Verb | предотвращать | B2  
+Previous | Adjective | предыдущий | B2  
+Primary | Adjective | основной | B2  
+Prime | Adjective | главный | B2  
+Principal | Adjective / Noun | основной / директор | B2  
+Principle | Noun | принцип | B2  
+Prior | Adjective | предшествующий | B2  
+Private | Adjective | частный | B2  
+Probe | Verb / Noun | исследовать / зонд | B2  
+Proceed | Verb | продолжать | B2  
+Process | Verb / Noun | процесс / обрабатывать | B2  
+Produce | Verb | производить | B2  
+Profession | Noun | профессия | B2  
+Profit | Verb / Noun | прибыль / получать прибыль | B2  
+Progress | Verb / Noun | прогресс / прогрессировать | B2  
+Prohibit | Verb | запрещать | B2  
+Promise | Verb / Noun | обещать / обещание | B2  
+Promote | Verb | продвигать | B2  
+Prompt | Adjective / Verb | быстрый / подсказывать | B2  
+Propose | Verb | предлагать | B2  
+Protect | Verb | защищать | B2  
+Protest | Verb / Noun | протестовать / протест | B2  
+Prove | Verb | доказывать | B2  
+Provide | Verb | предоставлять | B2  
+Provoke | Verb | провоцировать | B2  
+Public | Adjective | публичный | B2  
+Publish | Verb | публиковать | B2  
+Pump | Verb / Noun | качать / насос | B2  
+Punch | Verb / Noun | ударять кулаком / удар | B2  
+Punish | Verb | наказывать | B2  
+Purchase | Verb / Noun | покупать / покупка | B2  
+Pure | Adjective | чистый | B2  
+Purpose | Noun | цель | B2  
+Pursue | Verb | преследовать | B2  
+Push | Verb / Noun | толкать / толчок | B2  
+Puzzle | Verb / Noun | головоломка / озадачивать | B2  
+Qualify | Verb | квалифицировать | B2  
+Quarrel | Verb / Noun | ссора / ссориться | B2  
+Queue | Verb / Noun | очередь / стоять в очереди | B2  
+Quit | Verb | бросать | B2  
+Quote | Verb / Noun | цитировать / цитата | B2  
+Race | Verb / Noun | гонка / соревноваться | B2  
+Rage | Noun | ярость | B2  
+Raise | Verb | поднимать | B2  
+Random | Adjective | случайный | B2  
+Range | Verb / Noun | диапазон / варьироваться | B2  
+Rank | Verb / Noun | ранг / ранжировать | B2  
+Rare | Adjective | редкий | B2  
+Rate | Verb / Noun | ставка / оценивать | B2  
+Raw | Adjective | сырой | B2  
+React | Verb | реагировать | B2  
+Realize | Verb | осознавать | B2  
+Reason | Verb / Noun | причина / рассуждать | B2  
+Rebel | Verb / Noun | бунтарь / бунтовать | B2  
+Recall | Verb | вспоминать | B2  
+Receipt | Noun | квитанция | B2  
+Reckon | Verb | считать | B2  
+Recognize | Verb | узнавать | B2  
+Recommend | Verb | рекомендовать | B2  
+Recover | Verb | восстанавливаться | B2  
+Reduce | Verb | уменьшать | B2  
+Refer | Verb | ссылаться | B2  
+Reflect | Verb | отражать | B2  
+Refuse | Verb | отказываться | B2  
+Regard | Verb / Noun | рассматривать / уважение | B2  
+Register | Verb / Noun | регистрировать / регистр | B2  
+Regret | Verb / Noun | сожалеть / сожаление | B2  
+Regulate | Verb | регулировать | B2  
+Reject | Verb | отвергать | B2  
+Relate | Verb | относиться | B2  
+Relax | Verb | расслабляться | B2  
+Release | Verb / Noun | выпускать / выпуск | B2  
+Relieve | Verb | облегчать | B2  
+Rely | Verb | полагаться | B2  
+Remain | Verb | оставаться | B2  
+Remark | Verb / Noun | замечание / замечать | B2  
+Remember | Verb | помнить | B2  
+Remind | Verb | напоминать | B2  
+Remove | Verb | удалять | B2  
+Rent | Verb / Noun | арендовать / аренда | B2  
+Repair | Verb / Noun | ремонтировать / ремонт | B2  
+Repeat | Verb | повторять | B2  
+Replace | Verb | заменять | B2  
+Reply | Verb / Noun | отвечать / ответ | B2  
+Report | Verb / Noun | сообщать / отчет | B2  
+Represent | Verb | представлять | B2  
+Request | Verb / Noun | запрашивать / запрос | B2  
+Require | Verb | требовать | B2  
+Rescue | Verb / Noun | спасать / спасение | B2  
+Research | Verb / Noun | исследование / исследовать | B2  
+Resemble | Verb | напоминать | B2  
+Resent | Verb | возмущаться | B2  
+Reserve | Verb / Noun | резервировать / резерв | B2  
+Resist | Verb | сопротивляться | B2  
+Resolve | Verb | решать | B2  
+Resort | Noun | курорт | B2  
+Resource | Noun | ресурс | B2  
+Respect | Verb / Noun | уважать / уважение | B2  
+Respond | Verb | отвечать | B2  
+Restore | Verb | восстанавливать | B2  
+Restrict | Verb | ограничивать | B2  
+Result | Verb / Noun | результат / приводить к результату | B2  
+Retain | Verb | сохранять | B2  
+Retire | Verb | уходить на пенсию | B2   
