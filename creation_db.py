@@ -28,7 +28,7 @@ def tables_creation():
 
         cur.execute("""
                     CREATE TABLE IF NOT EXISTS words_for_users (
-                        user_id INT REFERENCES users(id),
+                        user_id BIGINT REFERENCES users(id),
                         word_id INT REFERENCES words(id)
                         );
                 """)
