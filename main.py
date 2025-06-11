@@ -117,8 +117,7 @@ def send_welcome(message):
             conn.commit()
 
     bot.send_message(message.chat.id,
-                     f"""Привет, {message.from_user.first_name}!\nНачнем обучение?)"""
-                    )
+                     f"""Привет, {message.from_user.first_name}!\nНачнем обучение?)""")
     markup = types.ReplyKeyboardMarkup(row_width=2)
     level_btns = [types.KeyboardButton(level) for level in levels]
     markup.add(*level_btns)
@@ -335,10 +334,11 @@ def delete_word(message):
     next_btn = types.KeyboardButton(menu[2])
     markup.add(next_btn)
     with conn.cursor() as cur:
+
         cur.execute("""
             DELETE FROM words_for_users
             WHERE user_id = %s AND word_id = (SELECT id FROM words
-                WHERE lower(word) LIKE %s AND added_by_user = True
+                WHERE lower(word) LIKE %s 
             )
         """, (user_id, message.text.lower()))
         conn.commit()
