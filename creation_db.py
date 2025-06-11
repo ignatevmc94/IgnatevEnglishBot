@@ -19,16 +19,11 @@ def tables_creation():
 
         cur.execute("""
                 CREATE TABLE IF NOT EXISTS users (
-                    id INT PRIMARY KEY,
+                    id BIGINT PRIMARY KEY,
                     name VARCHAR(100),
                     surname VARCHAR(100)
                     );
             """)
-        cur.execute("""
-                    INSERT INTO users
-                    VALUES (%s, %s, %s)
-                """, (1, 'Creator', 'Creator')
-                    )
         conn.commit()
 
         cur.execute("""
